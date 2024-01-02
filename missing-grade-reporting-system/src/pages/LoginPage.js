@@ -19,7 +19,7 @@ const Login = () => {
     e.preventDefault();
 
     // Placeholder logic for user verification
-    if (ID === '11020486' && password === '45727') {
+    if (ID === '11020486' && password === '22222') {
       // Replace with actual authentication logic (e.g., API call)
       alert('Login successful!');
     } else {
